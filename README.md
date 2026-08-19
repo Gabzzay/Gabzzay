@@ -1,4 +1,4 @@
-## # Hi, I'm Akinrinola Oluwagbemileke Gabriel 👋
+### Hi, I'm Akinrinola Oluwagbemileke Gabriel 👋
 
 ### Software Developer | Python • Backend • Web Applications • Automation
 
