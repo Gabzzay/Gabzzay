@@ -137,3 +137,13 @@ software development while continuing to grow as an engineer.
 I'm particularly interested in teams that value continuous learning,
 problem-solving, clean code, collaboration, and building reliable
 software.
+
+## 🤝 Connect With Me
+
+I'm always open to connecting with developers, technology professionals,
+recruiters, and organisations working on interesting projects.
+
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/mishpahhah-online-a599b6161/)
+- 🌐 **Portfolio:** [Visit my portfolio](https://mishpahhahonline.vercel.app/)
+- 🐙 **GitHub:** [@Gabzzay](https://github.com/Gabzzay)
+- 📧 **Email:** [mishpahhahonline@gmail.com](mailto:mishpahhahonline@gmail.com)
