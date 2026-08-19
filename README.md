@@ -78,6 +78,37 @@ analysis, and reporting.
 A web-based education platform focused on online tuition, learning
 management, and examination preparation.
 
+## 📚 Currently Learning
+
+I'm continuously expanding my knowledge through academic study,
+hands-on development, and practical projects.
+
+### 🐍 Advanced Python
+- Object-Oriented Programming
+- Design Patterns
+- Performance Optimisation
+- Automation & Scripting
+- Secure Python Development
+
+### 🌐 Backend & Software Engineering
+- REST API Development
+- Backend Architecture
+- Database Design
+- Authentication & Authorisation
+- Testing & Debugging
+- Software Design Principles
+
+### 🔐 Cybersecurity
+- Vulnerability Intelligence
+- Secure Software Development
+- Application Security
+- Security Automation
+
+### ☁️ Development & Deployment
+- Git & GitHub
+- CI/CD
+- Cloud Deployment
+- Containerisation
 **Focus:** Node.js • Express.js • MongoDB • JavaScript
 
 > 🚧 Currently in development
