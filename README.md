@@ -119,3 +119,21 @@ hands-on development, and practical projects.
 
 Additional software engineering and automation projects are being
 developed and will be added here as they reach a presentable stage.
+
+## 🎯 Career Focus
+
+I'm interested in opportunities where I can contribute to real-world
+software development while continuing to grow as an engineer.
+
+### Roles I'm Working Towards
+
+- Software Developer
+- Python Developer
+- Backend Developer
+- Full-Stack Developer
+- Automation Engineer
+- Junior Cybersecurity / Application Security roles
+
+I'm particularly interested in teams that value continuous learning,
+problem-solving, clean code, collaboration, and building reliable
+software.
