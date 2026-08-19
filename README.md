@@ -57,35 +57,34 @@ and continuously improving my skills through hands-on projects.
 
 ## 🚀 Featured Projects
 
-Here are some of the projects I'm building and developing to strengthen
-my skills in software engineering, backend development, automation, and
-cybersecurity.
+I'm building practical projects focused on software engineering,
+backend development, automation, and cybersecurity.
 
 ### 🛡️ BUGHUGE
 **Automated Vulnerability Intelligence Engine**
 
-A security-focused project designed to automate vulnerability intelligence,
+A security-focused project exploring automated vulnerability intelligence,
 analysis, and reporting.
 
-**Focus:** Python • Cybersecurity • Automation • APIs • Data Processing
+**Focus:** Python • Cybersecurity • Automation • APIs
 
-🔗 [View Project](https://github.com/Gabzzay)
+> 🚧 Currently in development
 
 ---
 
 ### 🎓 Mishpahhah Online Academy
 **Online Learning & Examination Preparation Platform**
 
-A web-based education platform designed to support online tuition,
-course management, and examination preparation.
+A web-based education platform focused on online tuition, learning
+management, and examination preparation.
 
-**Focus:** Node.js • Express.js • MongoDB • JavaScript • Web Development
+**Focus:** Node.js • Express.js • MongoDB • JavaScript
 
-🔗 [View Project](https://github.com/Gabzzay)
+> 🚧 Currently in development
 
 ---
 
-### 🧩 More Projects Coming
+### 🔨 More Projects
 
-I'm continuously building practical projects to demonstrate my skills in
-software development, automation, backend engineering, and cybersecurity.
+Additional software engineering and automation projects are being
+developed and will be added here as they reach a presentable stage.
